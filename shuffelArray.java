@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Arrays;
 import java.util.Scanner;  
-class HelloWorld {
+class ShuffleArray {
     public static void random(int[] arr,int n){
          Random r = new Random();
          //Start from the last index and swap it with the random index element
